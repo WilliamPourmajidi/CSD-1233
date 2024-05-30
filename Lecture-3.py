@@ -36,6 +36,7 @@ else:
 
 #####
 light_color = input("Enter the traffic light color (red, yellow, green): ").lower()
+print(f"here is your ligh_color {light_color}")
 if light_color == "red":
     print("Stop")
 elif light_color == "yellow":

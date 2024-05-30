@@ -1,16 +1,21 @@
 #### While loop
 
 count = 0
-while count < 5:
+while count < 500000:
     print(count)
     count += 1
-
+# output:
+# 0
+# 1
+# 2
+# 3
+# 4
 
 ### For loop
 
-fruits = ["apple", "banana", "cherry"]
-for fruit in fruits:
-    print(fruit)
+my_list = ["apple", "banana", "cherry", 12,13,15, 3.14]
+for item in my_list:
+    print(item)
 
 for character in "My String":
     print(character)
