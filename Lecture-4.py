@@ -43,6 +43,13 @@ for i in range(1, 6):
     print()
 
 
+# Dealing with nested Lists!
+not_nested_list = ["a", "b", "c"]
+nested_list = ["a", "b", "c", ["d", "e"], "f", "g"]
+
+for element in nested_list:
+  print(f"This is our element {element}, and it has the variable {type(element)}")
+
 
 
 
