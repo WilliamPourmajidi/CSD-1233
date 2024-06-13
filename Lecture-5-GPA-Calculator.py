@@ -4,7 +4,7 @@ count_grades = 0
 print("Enter your course grades one by one. Type 'done' to finish and calculate the average GPA.")
 # Loop to collect grades until the user types 'done'
 while True:
-    grade_input = input("Enter a course grade (or 'done' to calculate): ")
+    grade_input = input("Enter a course grade (or 'done' to calculate GPA): ")
 
     # Check if the user wants to stop entering grades
     if grade_input.lower() == 'done':
