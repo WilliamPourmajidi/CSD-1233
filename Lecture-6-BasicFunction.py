@@ -12,13 +12,16 @@ def add_numbers(a, b):
        int, float: The sum of the two numbers.
        """
 
+
     c = a + b
     return c
 
 
-# Example usage
-result = add_numbers(5, 3)
-print("The sum is:", result)
+
+
+
+
+
 
 
 

@@ -18,6 +18,9 @@ def find_primes_in_range(start, end):
             if num % i == 0:
                 return False
         return True
+
+
+
     primes = []  # Start with an empty list to hold prime numbers
     for num in range(start, end):
         if is_prime(num):
