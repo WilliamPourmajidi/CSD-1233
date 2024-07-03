@@ -32,3 +32,4 @@ for matrix in modified_tensor:
     for row in matrix:
         print(row)
     print()  # Newline for better readability
+    8
