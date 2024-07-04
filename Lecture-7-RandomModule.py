@@ -13,7 +13,6 @@ print(f"Random choice from list: {rand_choice}")
 deck = list(range(1, 11))
 print(f"list: {deck}")
 
-
 count = 0
 for i in range(1, random.randint(100, 100000)):
     random.shuffle(deck)
