@@ -1,6 +1,12 @@
 # ' Create a list with different data types
 my_list = [1, 2, 3, 4, "William", 3.14]
+
 print(my_list)
+reversed_list = my_list.reverse()
+print(reversed_list)
+
+# lenghth of a list
+print(len(my_list))
 
 # ' Append an element to the list
 my_list.append("Awesome!")
