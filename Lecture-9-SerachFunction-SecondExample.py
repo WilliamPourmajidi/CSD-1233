@@ -1,4 +1,6 @@
 def find_an_element_in_a_sequence(item, targeted_sequence):
+
+    # Look at the following nested function!
     def determine_sequence_type(sequence):
         if (type(sequence) == list):
             return "List"
