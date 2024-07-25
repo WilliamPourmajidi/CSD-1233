@@ -26,7 +26,7 @@ print("List after pop():", numbers)  # Expected output: [3, 0, 4, 1, 5, 9, 2, 6,
 
 # sort() - Sort elements in ascending order (in-place modification)
 numbers.sort()
-print("List after sort():", numbers)  # Expected output: [0, 1, 2, 3, 4, 5, 6, 7, 9x`]
+print("List after sort():", numbers)  # Expected output: [0, 1, 2, 3, 4, 5, 6, 7, 9`]
 
 # reverse() - Reverse the order of elements in-place
 numbers.reverse()
