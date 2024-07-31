@@ -1,0 +1,6 @@
+John, 85
+Jane, 90
+Alice, 78
+Bob, 92
+Charlie, 87
+Daisy, 83
