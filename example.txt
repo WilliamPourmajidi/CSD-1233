@@ -1,6 +1,5 @@
+
 Hello, World!
-This is an appended line.
-This is an appended line.
-This is an appended line.
-This is an appended line.
-This is an appended line.
+Hello, World!
+Hello, World!
+Hello, World!
